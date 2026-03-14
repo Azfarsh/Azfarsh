@@ -17,10 +17,10 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 # 🚀 About Me
 
 - 🎓 B.E. Information Technology Student  
-- 🤖 Passionate about **AI, Machine Learning & Full Stack Development**
-- 🧠 Building AI-powered products and SaaS platforms
-- 🌍 Based in **Pune, India**
-- 💡 Founder of **Printmax**
+- 🤖 Passionate about AI, Machine Learning & Full Stack Development  
+- 🧠 Building AI-powered products and SaaS platforms  
+- 🌍 Based in Pune, India  
+- 💡 Founder of Printmax  
 
 ---
 
@@ -38,9 +38,9 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azfarsh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -50,7 +50,7 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,6 +121,6 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Azfarsh/Azfarsh/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/Azfarsh/Azfarsh/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
 
 </p>
