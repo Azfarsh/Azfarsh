@@ -38,9 +38,9 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azfarsh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Azfarsh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -50,7 +50,7 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 </p>
 
@@ -60,7 +60,7 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azfarsh&theme=tokyo-night&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azfarsh&theme=tokyo-night&area=true&hide_border=true&custom_title=Azfar%20Shaikh%20Contribution%20Graph"/>
 
 </p>
 
@@ -70,7 +70,7 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Azfarsh&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Azfarsh&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1"/>
 
 </p>
 
@@ -121,6 +121,6 @@ I enjoy building AI-powered web applications and scalable full-stack systems.
 
 <p align="center">
 
-<img src="https://github.com/Azfarsh/Azfarsh/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+<img src="https://raw.githubusercontent.com/Azfarsh/Azfarsh/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
