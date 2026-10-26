@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0891B2,100:22D3EE&height=180&section=header&text=AZFAR%20SHAIKH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20SYSTEMS&descSize=12&descAlignY=60&descColor=BAF7FF" alt="Azfar Shaikh portfolio banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0891B2,100:22D3EE&height=180&section=header&text=AZFAR%20SHAIKH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20SYSTEMS&descSize=12&descAlignY=60&descColor=BAF7FF" width="100%" alt="Azfar Shaikh portfolio banner"/>
 
 <br/>
 
@@ -13,15 +13,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:azfarshaikh7860@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Azfarsh?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects"/>
-</a>
+<a href="https://linkedin.com/in/azfar-shaikh-04063a29b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects"/></a>
 
 <br/><br/>
 
@@ -38,11 +32,11 @@
 
 ### AI Engineer · Full Stack Developer · Data Science Researcher
 
-*I build intelligent applications, automate complex workflows, and turn ideas into practical software products.*
+*Building intelligent systems that turn complex problems into practical products.*
 
 </div>
 
-I'm a developer focused on **AI agents, LLM-powered applications, data engineering, and full-stack product development**. I enjoy working across the complete development lifecycle, from designing an AI workflow to building its APIs, integrating databases, and delivering a usable interface.
+I'm a developer focused on **AI agents, LLM-powered applications, data engineering, and full-stack product development**. I enjoy working across the development lifecycle, from designing AI workflows to building APIs, integrating databases, and delivering usable interfaces.
 
 - 🤖 **AI Engineering:** Agentic workflows, LLMs, RAG, and AI automation.
 - ⚙️ **Data Engineering:** ETL pipelines, data ingestion, transformation, and validation.
@@ -52,32 +46,11 @@ I'm a developer focused on **AI agents, LLM-powered applications, data engineeri
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🎓 EDUCATION**
-
-M.Sc. Data Science (Research Master)
-
-Hochschule Bielefeld (HSBI)
-
-Germany · 2026–2028 expected
-
-</td>
-<td align="center" width="50%">
-
-**🚀 ENTREPRENEURSHIP**
-
-**Printmax**
-
-On-demand printing SaaS
-
-Adopted by 100+ students in Pune
-
-</td>
-</tr>
-</table>
+| 🎓 Education | 🚀 Entrepreneurship |
+|:---:|:---:|
+| **M.Sc. Data Science (Research Master)** | **Founder of Printmax** |
+| Hochschule Bielefeld (HSBI), Germany | Printing SaaS adopted by 100+ students in Pune |
+| 2026–2028 expected | Student-focused product |
 
 </div>
 
@@ -89,7 +62,9 @@ Adopted by 100+ students in Pune
 
 ### Artificial Intelligence & Data Science
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="Python and machine learning technologies"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and data science technologies"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph"/>
@@ -108,7 +83,7 @@ Adopted by 100+ students in Pune
 
 ### Databases, Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,github&theme=dark" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,github&theme=dark" alt="Database and DevOps technologies"/>
 
 <br/>
 
@@ -139,21 +114,15 @@ Adopted by 100+ students in Pune
 
 A natural-language-driven platform that helps users clean and transform CSV and Excel datasets using AI agents.
 
-- Multi-agent processing and validation.
-- LLM-generated transformation plans.
-- Deterministic Pandas transformations.
-- RAG-based dataset context.
-- AI-assisted Excel workflows.
+- Multi-agent processing and validation
+- LLM-generated transformation plans
+- Deterministic Pandas transformations
+- RAG-based dataset context
+- AI-assisted Excel workflows
 
-**Technologies**
+**Stack:** React · FastAPI · Gemini · Pandas · Plotly
 
-`React` `FastAPI` `Gemini` `Pandas` `scikit-learn` `Plotly`
-
-<br/>
-
-<a href="https://github.com/Azfarsh/Llama-wrangler">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Axel AI source code"/>
-</a>
+<a href="https://github.com/Azfarsh/Llama-wrangler"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Axel AI source code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -164,23 +133,17 @@ A natural-language-driven platform that helps users clean and transform CSV and 
 
 A student-focused platform connecting college students with nearby print shops.
 
-- Remote print ordering.
-- Token-based notifications.
-- Order tracking.
-- Nearby print-shop discovery.
-- Cloud-backed file storage.
+- Remote print ordering
+- Token-based notifications
+- Order tracking
+- Nearby print-shop discovery
+- Cloud-backed file storage
 
 **Impact:** Adopted by 100+ students in Pune.
 
-**Technologies**
+**Stack:** Django · Firebase · Google Maps API · Cloudflare
 
-`Django` `Firebase` `Google Maps API` `Cloudflare`
-
-<br/>
-
-<a href="https://github.com/Azfarsh/smartp">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Printmax source code"/>
-</a>
+<a href="https://github.com/Azfarsh/smartp"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Printmax source code"/></a>
 
 </td>
 </tr>
@@ -193,20 +156,14 @@ A student-focused platform connecting college students with nearby print shops.
 
 A full-stack healthcare application exploring AI-assisted screening and digital patient services.
 
-- Voice-based Parkinson's screening.
-- Chest X-ray disease detection.
-- Patient dashboards.
-- Doctor discovery.
+- Voice-based Parkinson's screening
+- Chest X-ray disease detection
+- Patient dashboards
+- Doctor discovery
 
-**Technologies**
+**Stack:** React · Flask · TensorFlow · IBM Cloud · Express.js
 
-`React` `Flask` `TensorFlow` `IBM Cloud` `Express.js`
-
-<br/>
-
-<a href="https://github.com/Azfarsh/Scanova3">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Scanova source code"/>
-</a>
+<a href="https://github.com/Azfarsh/Scanova3"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Scanova source code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -217,20 +174,14 @@ A full-stack healthcare application exploring AI-assisted screening and digital 
 
 An AI-powered mentorship platform designed to help learners plan and improve their careers.
 
-- Skill-gap analysis.
-- Personalized learning roadmaps.
-- Resume feedback.
-- Mock interview guidance.
+- Skill-gap analysis
+- Personalized learning roadmaps
+- Resume feedback
+- Mock interview guidance
 
-**Technologies**
+**Stack:** React · Tailwind CSS · Node.js · Express · Firebase · Gemini
 
-`React` `Tailwind CSS` `Node.js` `Express` `Firebase` `Gemini`
-
-<br/>
-
-<a href="https://github.com/Azfarsh/Ascend-Mentor">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="AscendMentor source code"/>
-</a>
+<a href="https://github.com/Azfarsh/Ascend-Mentor"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="AscendMentor source code"/></a>
 
 </td>
 </tr>
@@ -238,9 +189,7 @@ An AI-powered mentorship platform designed to help learners plan and improve the
 
 <div align="center">
 
-<a href="https://github.com/Azfarsh?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/>
-</a>
+<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/></a>
 
 </div>
 
@@ -250,16 +199,24 @@ An AI-powered mentorship platform designed to help learners plan and improve the
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
 <a href="https://github.com/Azfarsh">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
-</a>
-<a href="https://github.com/Azfarsh">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub profile statistics"/>
 </a>
 
-<br/><br/>
+</td>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Azfarsh&theme=tokyonight&no-frame=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
+<a href="https://github.com/Azfarsh">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most used programming languages"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -300,20 +257,14 @@ I'm interested in AI engineering, intelligent automation, data systems, research
 
 <br/>
 
-<a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-<a href="mailto:azfarshaikh7860@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get_in_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
-</a>
-<a href="https://github.com/Azfarsh">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-</a>
+<a href="https://linkedin.com/in/azfar-shaikh-04063a29b"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Azfarsh"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
 **Build thoughtfully. Automate intelligently. Deliver impact.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=100&section=footer" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
