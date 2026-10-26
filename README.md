@@ -1,206 +1,301 @@
- <!-- Azfarsh / GitHub Profile README -->
 
-<h1 align="center">⚡ AZFAR SHAIKH</h1>
+<!-- ======================================================= -->
+<!--                 AZFAR SHAIKH | PROFILE                   -->
+<!-- ======================================================= -->
 
-<h3 align="center">
-  AI Engineer · Full Stack Developer · Builder of Intelligent Systems
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=Building+AI+Agents+%26+LLM+Applications;Engineering+Scalable+Data+Pipelines;Turning+Ideas+Into+Production-Ready+Products;Founder+of+Printmax;Exploring+the+Future+of+AI" alt="Animated developer introduction" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:0891B2,100:22D3EE&height=220&section=header&text=AZFAR%20SHAIKH&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20DATA%20SYSTEMS&descSize=15&descAlignY=58&descColor=BAF7FF" width="100%" alt="Azfar Shaikh profile banner"/>
 
-<p align="center">
   <a href="https://github.com/Azfarsh">
-    <img src="https://img.shields.io/badge/GitHub-Azfarsh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Building+AI+Agents+%26+Intelligent+Systems;Full+Stack+Developer+%7C+AI+%26+ML;Turning+Ideas+Into+Production-Ready+Products;Exploring+LLMs%2C+RAG+%26+Data+Pipelines;Founder+of+Printmax+%F0%9F%9A%80" alt="Animated introduction"/>
   </a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Azfarsh&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/Azfarsh?tab=followers">
+    <img src="https://img.shields.io/github/followers/Azfarsh?style=for-the-badge&color=0E7490&label=FOLLOWERS" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Azfarsh?tab=repositories">
+    <img src="https://img.shields.io/badge/OPEN_SOURCE-EXPLORING-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/>
+  </a>
+
+  <br/><br/>
+
   <a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:azfarshaikh7860@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+  <a href="https://github.com/Azfarsh">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azfarsh&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+</div>
 
 ---
 
-## `> whoami`
-
-I'm an AI & ML developer and full-stack engineer pursuing an **M.Sc. in Data Science (Research Master) at Hochschule Bielefeld (HSBI), Germany**.
-
-I enjoy building intelligent applications that combine LLMs, AI agents, data engineering, and modern web technologies to solve real-world problems.
-
-Currently, I'm interested in agentic AI, automated data workflows, LLM-powered applications, and turning research ideas into practical software.
-
-- 🤖 Building multi-agent systems with **LangGraph, LangChain and Gemini**
-- ⚙️ Developing ETL pipelines, API integrations and workflow automation
-- 🧠 Exploring RAG, LLM applications and intelligent data processing
-- 🚀 Founded **Printmax**, an on-demand printing SaaS platform adopted by 100+ students
-- 🔬 Interested in applied AI research and production-ready systems
-- 🌍 Based in Bielefeld, Germany
+## `01` — SYSTEM PROFILE
 
 ```python
 class AzfarShaikh:
     def __init__(self):
-        self.role = ["AI/ML Engineer", "Full Stack Developer"]
-        self.education = "M.Sc. Data Science @ HSBI"
+        self.role = "AI & ML Engineer | Full Stack Developer"
+        self.education = "M.Sc. Data Science (Research Master)"
+        self.university = "Hochschule Bielefeld (HSBI), Germany"
         self.focus = [
-            "Agentic AI",
-            "LLM Applications",
-            "Data Engineering",
-            "Full Stack Development",
+            "Agentic AI & LLM Applications",
+            "Intelligent Data Pipelines",
+            "Full Stack Product Engineering",
+            "Automation & Scalable Systems"
         ]
-        self.currently_building = "Intelligent AI-powered systems"
+        self.currently_exploring = [
+            "Multi-Agent Architectures",
+            "Retrieval-Augmented Generation",
+            "Reliable AI Workflows"
+        ]
+        self.mindset = "Build. Experiment. Ship. Improve."
 
-    def motto(self):
-        return "Build things that solve real problems."
-
+    def build(self):
+        return "Turning complex problems into useful products."
 
 me = AzfarShaikh()
-print(me.motto())
 ```
 
+I'm an AI and full-stack developer focused on building intelligent applications that solve real-world problems. My experience spans LLM-powered agents, automated data processing, backend engineering, and interactive web platforms.
+
+As the founder of **Printmax**, I built an on-demand printing SaaS platform designed around the needs of college students.
+
+- 🤖 Building AI agents and LLM-powered workflows.
+- ⚙️ Developing data ingestion, ETL, and validation pipelines.
+- 🌐 Engineering full-stack applications from idea to deployment.
+- 🔬 Exploring reliable, reproducible AI and data science systems.
+- 🚀 Interested in AI engineering, automation, and impactful software products.
+
 ---
 
-## `> featured_projects`
+## `02` — TECH ARSENAL
 
-<p align="center">
-  <b>Building beyond tutorials — practical systems, real users, and applied AI.</b>
-</p>
+<div align="center">
+
+### Artificial Intelligence & Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and Python technologies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" alt="Retrieval augmented generation"/>
+<img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies"/>
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&theme=dark" alt="Backend technologies"/>
+
+### Databases, Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,github&theme=dark" alt="Database and DevOps technologies"/>
+
+<img src="https://img.shields.io/badge/Celery-BUILDING_WORKFLOWS-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/Cloudflare-Data_%26_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Mage_AI-Data_Orchestration-6366F1?style=flat-square" alt="Mage AI"/>
+<img src="https://img.shields.io/badge/REST_APIs-Integration-0891B2?style=flat-square" alt="REST APIs"/>
+
+</div>
+
+---
+
+## `03` — FEATURED PROJECTS
+
+<div align="center">
+
+### ⚡ Products built to solve real problems
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🖨️ Printmax</h3>
-      <p><b>AI-powered on-demand printing SaaS</b></p>
-      A student-first printing platform connecting college students with nearby print shops. Features remote ordering, cloud file storage, order tracking and token-based notifications.
-      <br/><br/>
-      <b>Stack:</b> Django · Firebase · Google Maps API · Cloudflare
-      <br/><br/>
-      <a href="https://github.com/Azfarsh/smartp">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Axel AI</h3>
-      <p><b>Agentic LLM Data Wrangling Platform</b></p>
-      A natural-language-driven data preprocessing platform with a four-agent workflow for understanding intent, planning transformations, executing operations and validating results.
-      <br/><br/>
-      <b>Stack:</b> React · FastAPI · Gemini · pandas · scikit-learn
-      <br/><br/>
-      <a href="https://github.com/Azfarsh/Llama-wrangler">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Scanova</h3>
-      <p><b>AI-powered healthcare platform</b></p>
-      A healthcare application combining voice-based Parkinson's screening, chest X-ray disease detection and patient-facing digital features.
-      <br/><br/>
-      <b>Stack:</b> React · Flask · TensorFlow · IBM Cloud
-      <br/><br/>
-      <a href="https://github.com/Azfarsh/Scanova3">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 AscendMentor</h3>
-      <p><b>AI career development platform</b></p>
-      An AI-powered mentorship application featuring skill-gap analysis, personalized learning roadmaps, resume feedback and mock interview guidance.
-      <br/><br/>
-      <b>Stack:</b> React · Node.js · Express · Firebase · Gemini
-      <br/><br/>
-      <a href="https://github.com/Azfarsh/Ascend-Mentor">View Repository →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Axel AI
+
+**Agentic LLM Data Wrangling Platform**
+
+A natural-language-driven platform that simplifies CSV and Excel preprocessing using coordinated AI agents.
+
+- Multi-agent processing and validation.
+- LLM-generated transformation plans.
+- Pandas-powered data transformations.
+- RAG-based dataset context and AI-assisted Excel workflows.
+
+**Stack:** React · FastAPI · Gemini · Pandas · scikit-learn · Plotly
+
+<a href="https://github.com/Azfarsh/Llama-wrangler">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Axel AI project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ Printmax
+
+**AI-Powered On-Demand Printing SaaS**
+
+Founded and developed a student-focused platform connecting college students with nearby printing shops.
+
+- Remote print ordering.
+- Token-based notifications and order tracking.
+- Nearby print-shop discovery.
+- Cloud-backed file storage.
+
+**Impact:** Adopted by 100+ students in Pune.
+
+**Stack:** Django · Firebase · Google Maps API · Cloudflare
+
+<a href="https://github.com/Azfarsh/smartp">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Printmax project"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Scanova
+
+**AI-Assisted Healthcare Platform**
+
+A full-stack healthcare application exploring AI-assisted screening and patient-focused digital services.
+
+- Voice-based Parkinson's screening.
+- Chest X-ray disease detection.
+- Patient dashboards and doctor discovery.
+
+**Stack:** React · Flask · TensorFlow · IBM Cloud · Express.js
+
+<a href="https://github.com/Azfarsh/Scanova3">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Scanova project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 AscendMentor
+
+**AI Career Development Platform**
+
+An AI-powered mentorship platform designed to help learners plan and improve their careers.
+
+- Personalized skill-gap analysis.
+- Learning roadmaps.
+- Resume feedback.
+- Mock interview guidance.
+
+**Stack:** React · Tailwind CSS · Node.js · Express · Firebase · Gemini
+
+<a href="https://github.com/Azfarsh/Ascend-Mentor">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View AscendMentor project"/>
+</a>
+
+</td>
+</tr>
 </table>
 
----
+<div align="center">
 
-## `> tech_stack --all`
+<a href="https://github.com/Azfarsh?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-View_More_Projects-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all repositories"/>
+</a>
 
-<p align="center">
-  <b>Languages & Frontend</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,bootstrap&perline=8" alt="Languages and frontend technologies"/>
-</p>
-
-<p align="center">
-  <b>Backend, Databases & Infrastructure</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,postgres,mongodb,mysql,firebase,docker,git,github&perline=6" alt="Backend and infrastructure technologies"/>
-</p>
-
-<p align="center">
-  <b>AI, Data & Developer Tools</b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Mage_AI-6246EA?style=for-the-badge&logoColor=white" alt="Mage AI"/>
-</p>
+</div>
 
 ---
 
-## `> github_stats`
+## `04` — GITHUB TELEMETRY
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+<a href="https://github.com/Azfarsh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Azfarsh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azfarsh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</p>
+<br/>
 
----
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Azfarsh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
 
-## `> achievements`
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azfarsh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azfarsh&bg_color=0d1117&color=22d3ee&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
-- 🏅 Secured **9th rank at the IBM SkillBuild Hackathon** in an AI/cloud innovation challenge.
-- 🚀 Founded Printmax, an AI-powered SaaS platform adopted by 100+ college students.
-- 📄 Co-authored a research publication on the LLAMA Wrangler intelligent data-wrangling platform.
+</div>
 
 ---
 
-## `> contribution_graph`
+## `05` — ACHIEVEMENTS & RESEARCH
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Azfarsh/Azfarsh/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM_SkillBuild-9th_Rank-2563EB?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillBuild achievement"/>
+<img src="https://img.shields.io/badge/FOUNDER-Printmax-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Printmax founder"/>
+<img src="https://img.shields.io/badge/RESEARCH-Published_Paper-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research publication"/>
+
+</div>
+
+**Research publication**
+
+*LLAMA Wrangler: An Intelligent and Secure Data Wrangling Platform Using LLM*
+
+International Journal of Scientific Research in Engineering and Management, 2025.
+
+DOI: [10.55041/IJSREM53468](https://doi.org/10.55041/IJSREM53468)
+
+**Current academic journey:** M.Sc. Data Science (Research Master) at Hochschule Bielefeld (HSBI), Germany.
 
 ---
 
-## `> let's_connect`
+## `06` — CONTRIBUTION SNAKE
 
-<p align="center">
-  <i>Interested in AI agents, data engineering, full-stack development, or building something useful?</i>
-  <br/><br/>
-  <a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:azfarshaikh7860@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>From ideas to intelligent systems. One commit at a time. ⚡</b>
-</p>
+<img src="https://raw.githubusercontent.com/Azfarsh/Azfarsh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
-<p align="center">
-  <sub>Designed with curiosity, powered by code, and built for real-world impact.</sub>
-</p>
+</div>
+
+---
+
+## `07` — LET'S BUILD SOMETHING
+
+<div align="center">
+
+### Have an idea? Let's turn it into reality.
+
+I'm interested in AI engineering, intelligent automation, full-stack development, research, and collaborations on useful software products.
+
+<a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:azfarshaikh7860@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-Send_an_Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+</a>
+
+<br/><br/>
+
+**Think in systems. Build with intelligence. Ship with purpose.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
