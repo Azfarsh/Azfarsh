@@ -1,20 +1,15 @@
 
-<!-- ===================================================== -->
-<!-- AZFAR SHAIKH | GITHUB PROFILE                         -->
-<!-- ===================================================== -->
+<!-- ====================================================== -->
+<!-- AZFAR SHAIKH | AI ENGINEERING PORTFOLIO                -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0891B2,100:22D3EE&height=170&section=header&text=AZFAR%20SHAIKH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20DATA%20SYSTEMS&descSize=13&descAlignY=59&descColor=BAF7FF" width="100%" alt="Azfar Shaikh profile banner"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&height=45&lines=Building+AI+Agents+%26+LLM+Applications;Full+Stack+Developer+%7C+AI+%26+ML;Engineering+Intelligent+Data+Pipelines;Founder+of+Printmax" alt="Animated introduction"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0891B2,100:22D3EE&height=180&section=header&text=AZFAR%20SHAIKH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20SYSTEMS&descSize=12&descAlignY=60&descColor=BAF7FF" alt="Azfar Shaikh portfolio banner"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Azfarsh&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-<a href="https://github.com/Azfarsh?tab=followers">
-<img src="https://img.shields.io/github/followers/Azfarsh?style=for-the-badge&color=0E7490&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Building+Intelligent+AI+Applications;Engineering+Multi-Agent+Systems;Developing+Scalable+Data+Pipelines;Turning+Ideas+Into+Real+Products" alt="Animated developer introduction"/>
 
 <br/><br/>
 
@@ -22,108 +17,86 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:azfarshaikh7860@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Azfarsh?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+<img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-## `01` — SYSTEM PROFILE
-
-### 👋 Hi, I'm Azfar Shaikh
-
-**AI Engineer · Full Stack Developer · Data Science Researcher**
-
-*Building intelligent systems that turn complex problems into practical products.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧠 What I Do
-
-</div>
-
-- 🤖 Build AI agents and LLM applications
-- 🔗 Develop multi-agent workflows with LangGraph
-- ⚙️ Engineer data ingestion and ETL pipelines
-- 🌐 Build end-to-end full-stack applications
-- 🚀 Turn product ideas into practical solutions
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🎯 Current Focus
-
-</div>
-
-- **AI:** LangChain, Gemini, RAG
-- **Backend:** Python, FastAPI, PostgreSQL
-- **Data:** ETL, Celery, Redis, Mage AI
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Research:** Reliable AI systems
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-🎓 **M.Sc. Data Science (Research Master)**
-
-Hochschule Bielefeld (HSBI), Germany
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🚀 **Founder of Printmax**
-
-Student-focused printing SaaS adopted by 100+ students in Pune
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/MINDSET-Build%20%7C%20Experiment%20%7C%20Ship-0891B2?style=for-the-badge" alt="Build, experiment and ship"/>
+<img src="https://komarev.com/ghpvc/?username=Azfarsh&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Azfarsh?style=flat-square&color=0891B2&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
 ---
 
+## About Me
+
 <div align="center">
 
-## `02` — TECH ARSENAL
+### AI Engineer · Full Stack Developer · Data Science Researcher
 
-### Artificial Intelligence & Data
+*I build intelligent applications, automate complex workflows, and turn ideas into practical software products.*
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and data science technologies"/>
+</div>
 
-<br/>
+I'm a developer focused on **AI agents, LLM-powered applications, data engineering, and full-stack product development**. I enjoy working across the complete development lifecycle, from designing an AI workflow to building its APIs, integrating databases, and delivering a usable interface.
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+- 🤖 **AI Engineering:** Agentic workflows, LLMs, RAG, and AI automation.
+- ⚙️ **Data Engineering:** ETL pipelines, data ingestion, transformation, and validation.
+- 🌐 **Full Stack Development:** Responsive interfaces, backend APIs, and database integration.
+- 🚀 **Product Building:** Founder of Printmax, a student-focused printing SaaS platform.
+- 🔬 **Research:** Exploring reliable AI systems and intelligent data processing.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 EDUCATION**
+
+M.Sc. Data Science (Research Master)
+
+Hochschule Bielefeld (HSBI)
+
+Germany · 2026–2028 expected
+
+</td>
+<td align="center" width="50%">
+
+**🚀 ENTREPRENEURSHIP**
+
+**Printmax**
+
+On-demand printing SaaS
+
+Adopted by 100+ students in Pune
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Technical Skills
+
+<div align="center">
+
+### Artificial Intelligence & Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="Python and machine learning technologies"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangSmith-111827?style=flat-square" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 
 ### Frontend Development
 
@@ -135,12 +108,12 @@ Student-focused printing SaaS adopted by 100+ students in Pune
 
 ### Databases, Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,github&theme=dark" alt="Databases and DevOps"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,github&theme=dark" alt="Databases and development tools"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Celery-Workflow_Automation-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
-<img src="https://img.shields.io/badge/Cloudflare-Cloud_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Celery-Task_Queues-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/Cloudflare-Cloud_Infrastructure-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 <img src="https://img.shields.io/badge/Mage_AI-Data_Orchestration-6366F1?style=flat-square" alt="Mage AI"/>
 <img src="https://img.shields.io/badge/REST_APIs-Integrations-0891B2?style=flat-square" alt="REST APIs"/>
 
@@ -148,11 +121,11 @@ Student-focused printing SaaS adopted by 100+ students in Pune
 
 ---
 
+## Featured Projects
+
 <div align="center">
 
-## `03` — FEATURED PROJECTS
-
-*Selected projects in AI, automation, and full-stack engineering.*
+*Selected work across AI engineering, automation, and full-stack applications.*
 
 </div>
 
@@ -160,120 +133,104 @@ Student-focused printing SaaS adopted by 100+ students in Pune
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🤖 Axel AI
 
 **Agentic LLM Data Wrangling Platform**
 
-</div>
+A natural-language-driven platform that helps users clean and transform CSV and Excel datasets using AI agents.
 
-A natural-language-driven platform for CSV and Excel processing using coordinated AI agents.
+- Multi-agent processing and validation.
+- LLM-generated transformation plans.
+- Deterministic Pandas transformations.
+- RAG-based dataset context.
+- AI-assisted Excel workflows.
 
-- Multi-agent processing and validation
-- LLM-generated transformation plans
-- Pandas-powered data transformations
-- RAG-based dataset context
-- AI-assisted Excel workflows
+**Technologies**
 
-**Stack:** React · FastAPI · Gemini · Pandas · Plotly
+`React` `FastAPI` `Gemini` `Pandas` `scikit-learn` `Plotly`
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/Azfarsh/Llama-wrangler">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Axel AI"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Axel AI source code"/>
 </a>
-
-</div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🖨️ Printmax
 
-**AI-Powered On-Demand Printing SaaS**
+**On-Demand Printing SaaS**
 
-</div>
+A student-focused platform connecting college students with nearby print shops.
 
-A student-focused platform connecting college students with nearby printing shops.
-
-- Remote print ordering
-- Token-based notifications
-- Order tracking
-- Nearby print-shop discovery
-- Cloud-backed file storage
+- Remote print ordering.
+- Token-based notifications.
+- Order tracking.
+- Nearby print-shop discovery.
+- Cloud-backed file storage.
 
 **Impact:** Adopted by 100+ students in Pune.
 
-**Stack:** Django · Firebase · Google Maps API · Cloudflare
+**Technologies**
 
-<div align="center">
+`Django` `Firebase` `Google Maps API` `Cloudflare`
+
+<br/>
 
 <a href="https://github.com/Azfarsh/smartp">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Printmax"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Printmax source code"/>
 </a>
-
-</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🩺 Scanova
 
 **AI-Assisted Healthcare Platform**
 
-</div>
+A full-stack healthcare application exploring AI-assisted screening and digital patient services.
 
-A full-stack healthcare application exploring AI-assisted screening and patient services.
+- Voice-based Parkinson's screening.
+- Chest X-ray disease detection.
+- Patient dashboards.
+- Doctor discovery.
 
-- Voice-based Parkinson's screening
-- Chest X-ray disease detection
-- Patient dashboards
-- Doctor discovery
+**Technologies**
 
-**Stack:** React · Flask · TensorFlow · IBM Cloud · Express.js
+`React` `Flask` `TensorFlow` `IBM Cloud` `Express.js`
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/Azfarsh/Scanova3">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Scanova"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Scanova source code"/>
 </a>
-
-</div>
 
 </td>
 <td width="50%" valign="top">
-
-<div align="center">
 
 ### 🚀 AscendMentor
 
 **AI Career Development Platform**
 
-</div>
+An AI-powered mentorship platform designed to help learners plan and improve their careers.
 
-An AI-powered mentorship application for career planning and skill development.
+- Skill-gap analysis.
+- Personalized learning roadmaps.
+- Resume feedback.
+- Mock interview guidance.
 
-- Skill-gap analysis
-- Personalized learning roadmaps
-- Resume feedback
-- Mock interview guidance
+**Technologies**
 
-**Stack:** React · Tailwind CSS · Node.js · Express · Firebase · Gemini
+`React` `Tailwind CSS` `Node.js` `Express` `Firebase` `Gemini`
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/Azfarsh/Ascend-Mentor">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View AscendMentor"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="AscendMentor source code"/>
 </a>
-
-</div>
 
 </td>
 </tr>
@@ -282,45 +239,43 @@ An AI-powered mentorship application for career planning and skill development.
 <div align="center">
 
 <a href="https://github.com/Azfarsh?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/>
 </a>
 
 </div>
 
 ---
 
-## `04` — GITHUB TELEMETRY
+## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Azfarsh">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
 <a href="https://github.com/Azfarsh">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Azfarsh">
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&include_all_commits=true" alt="GitHub activity overview"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Azfarsh&theme=tokyonight&no-frame=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
 
 </div>
 
 ---
 
+## Achievements & Research
+
 <div align="center">
 
-## `05` — ACHIEVEMENTS & RESEARCH
-
 <img src="https://img.shields.io/badge/IBM_SkillBuild-9th_Rank-2563EB?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillBuild achievement"/>
-<img src="https://img.shields.io/badge/FOUNDER-Printmax-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Printmax founder"/>
+<img src="https://img.shields.io/badge/FOUNDER-Printmax-0891B2?style=for-the-badge" alt="Printmax founder"/>
 <img src="https://img.shields.io/badge/RESEARCH-Publication-7C3AED?style=for-the-badge" alt="Research publication"/>
 
 </div>
 
-### 📄 Research Publication
+### Research Publication
 
 **LLAMA Wrangler: An Intelligent and Secure Data Wrangling Platform Using LLM**
 
@@ -328,53 +283,37 @@ International Journal of Scientific Research in Engineering and Management, 2025
 
 **DOI:** [10.55041/IJSREM53468](https://doi.org/10.55041/IJSREM53468)
 
-<div align="center">
+### Education
 
-### 🎓 Academic Journey
-
-**M.Sc. Data Science (Research Master)**
-
-Hochschule Bielefeld (HSBI), Germany
-
-**B.E. Information Technology**
-
-Sinhgad College of Engineering, India
-
-</div>
+- **M.Sc. Data Science (Research Master)** — Hochschule Bielefeld (HSBI), Germany.
+- **B.E. Information Technology** — Sinhgad College of Engineering, India.
 
 ---
 
-<div align="center">
-
-## `06` — CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/Azfarsh/Azfarsh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
+## Let's Connect
 
 <div align="center">
 
-## `07` — LET'S BUILD SOMETHING
+### Interested in building something meaningful?
 
-### 💡 Have an idea? Let's turn it into reality.
+I'm interested in AI engineering, intelligent automation, data systems, research, and collaborating on useful software products.
 
-Interested in AI engineering, intelligent automation, full-stack development, research, and useful software products.
-
-<br/><br/>
+<br/>
 
 <a href="https://linkedin.com/in/azfar-shaikh-04063a29b">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:azfarshaikh7860@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+</a>
+<a href="https://github.com/Azfarsh">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <br/><br/>
 
-**Think in systems. Build with intelligence. Ship with purpose.**
+**Build thoughtfully. Automate intelligently. Deliver impact.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=100&section=footer" alt="Footer banner"/>
 
 </div>
