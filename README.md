@@ -1,35 +1,44 @@
+
 <!-- ====================================================== -->
-<!-- AZFAR SHAIKH | AI ENGINEERING PORTFOLIO                -->
+<!-- AZFAR SHAIKH | IRON MAN INSPIRED AI PORTFOLIO           -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0891B2,100:22D3EE&height=180&section=header&text=AZFAR%20SHAIKH&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20DEVELOPMENT%20%7C%20DATA%20SYSTEMS&descSize=12&descAlignY=60&descColor=BAF7FF" width="100%" alt="Azfar Shaikh portfolio banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,15:450A0A,35:B91C1C,55:F97316,75:FBBF24,100:09090B&height=190&section=header&text=AZFAR%20SHAIKH&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20DATA%20SYSTEMS&descSize=12&descAlignY=60&descColor=FDE68A" width="100%" alt="Iron Man inspired red and gold developer banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Building+Intelligent+AI+Applications;Engineering+Multi-Agent+Systems;Developing+Scalable+Data+Pipelines;Turning+Ideas+Into+Real+Products" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=17&duration=1800&pause=650&color=FBBF24&center=true&vCenter=true&width=800&height=60&lines=INITIALIZING+J.A.R.V.I.S.+INTERFACE...;ARC+REACTOR+ONLINE+%5BOK%5D;AI+SYSTEMS+INITIALIZED...;WELCOME%2C+I'M+AZFAR+SHAIKH;AI+ENGINEER+%7C+FULL+STACK+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" alt="Animated JARVIS-inspired system startup"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-16A34A?style=for-the-badge&logo=probot&logoColor=white" alt="System online"/>
+<img src="https://img.shields.io/badge/AI_CORE-ACTIVE-B91C1C?style=for-the-badge&logo=openai&logoColor=white" alt="AI core active"/>
+<img src="https://img.shields.io/badge/ARC_REACTOR-POWERED-F59E0B?style=for-the-badge" alt="Arc reactor powered"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/azfar-shaikh-04063a29b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Projects"/></a>
+<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Azfarsh&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Azfarsh?style=flat-square&color=0891B2&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=Azfarsh&style=flat-square&color=B91C1C&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Azfarsh?style=flat-square&color=F59E0B&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-## About Me
+## `01` — SYSTEM PROFILE
 
 <div align="center">
 
-### AI Engineer · Full Stack Developer · Data Science Researcher
+### 👋 Hi, I'm Azfar Shaikh
+
+**AI Engineer · Full Stack Developer · Data Science Researcher**
 
 *Building intelligent systems that turn complex problems into practical products.*
 
@@ -55,7 +64,7 @@ I'm a developer focused on **AI agents, LLM-powered applications, data engineeri
 
 ---
 
-## Technical Skills
+## `02` — TECHNOLOGY ARSENAL
 
 <div align="center">
 
@@ -89,13 +98,13 @@ I'm a developer focused on **AI agents, LLM-powered applications, data engineeri
 <img src="https://img.shields.io/badge/Celery-Task_Queues-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
 <img src="https://img.shields.io/badge/Cloudflare-Cloud_Infrastructure-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 <img src="https://img.shields.io/badge/Mage_AI-Data_Orchestration-6366F1?style=flat-square" alt="Mage AI"/>
-<img src="https://img.shields.io/badge/REST_APIs-Integrations-0891B2?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/REST_APIs-Integrations-B91C1C?style=flat-square" alt="REST APIs"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## `03` — FEATURED PROJECTS
 
 <div align="center">
 
@@ -121,7 +130,7 @@ A natural-language-driven platform that helps users clean and transform CSV and 
 
 **Stack:** React · FastAPI · Gemini · Pandas · Plotly
 
-<a href="https://github.com/Azfarsh/Llama-wrangler"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Axel AI source code"/></a>
+<a href="https://github.com/Azfarsh/Llama-wrangler"><img src="https://img.shields.io/badge/VIEW_SOURCE-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Axel AI source code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +151,7 @@ A student-focused platform connecting college students with nearby print shops.
 
 **Stack:** Django · Firebase · Google Maps API · Cloudflare
 
-<a href="https://github.com/Azfarsh/smartp"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Printmax source code"/></a>
+<a href="https://github.com/Azfarsh/smartp"><img src="https://img.shields.io/badge/VIEW_SOURCE-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Printmax source code"/></a>
 
 </td>
 </tr>
@@ -162,7 +171,7 @@ A full-stack healthcare application exploring AI-assisted screening and digital 
 
 **Stack:** React · Flask · TensorFlow · IBM Cloud · Express.js
 
-<a href="https://github.com/Azfarsh/Scanova3"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Scanova source code"/></a>
+<a href="https://github.com/Azfarsh/Scanova3"><img src="https://img.shields.io/badge/VIEW_SOURCE-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="Scanova source code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +189,7 @@ An AI-powered mentorship platform designed to help learners plan and improve the
 
 **Stack:** React · Tailwind CSS · Node.js · Express · Firebase · Gemini
 
-<a href="https://github.com/Azfarsh/Ascend-Mentor"><img src="https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="AscendMentor source code"/></a>
+<a href="https://github.com/Azfarsh/Ascend-Mentor"><img src="https://img.shields.io/badge/VIEW_SOURCE-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="AscendMentor source code"/></a>
 
 </td>
 </tr>
@@ -188,50 +197,38 @@ An AI-powered mentorship platform designed to help learners plan and improve the
 
 <div align="center">
 
-<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all projects"/></a>
+<a href="https://github.com/Azfarsh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Explore all projects"/></a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## `04` — GITHUB ANALYTICS
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
 <a href="https://github.com/Azfarsh">
-<img src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Azfarsh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
-
-</td>
-<td width="50%" align="center" valign="middle">
-
 <a href="https://github.com/Azfarsh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfarsh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## Achievements & Research
+## `05` — ACHIEVEMENTS & RESEARCH
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM_SkillBuild-9th_Rank-2563EB?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillBuild achievement"/>
-<img src="https://img.shields.io/badge/FOUNDER-Printmax-0891B2?style=for-the-badge" alt="Printmax founder"/>
-<img src="https://img.shields.io/badge/RESEARCH-Publication-7C3AED?style=for-the-badge" alt="Research publication"/>
+<img src="https://img.shields.io/badge/IBM_SKILLBUILD-9TH_RANK-2563EB?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillBuild achievement"/>
+<img src="https://img.shields.io/badge/FOUNDER-PRINTMAX-B91C1C?style=for-the-badge" alt="Printmax founder"/>
+<img src="https://img.shields.io/badge/RESEARCH-PUBLICATION-F59E0B?style=for-the-badge" alt="Research publication"/>
 
 </div>
 
-### Research Publication
+### 📄 Research Publication
 
 **LLAMA Wrangler: An Intelligent and Secure Data Wrangling Platform Using LLM**
 
@@ -239,31 +236,31 @@ International Journal of Scientific Research in Engineering and Management, 2025
 
 **DOI:** [10.55041/IJSREM53468](https://doi.org/10.55041/IJSREM53468)
 
-### Education
+### 🎓 Academic Background
 
 - **M.Sc. Data Science (Research Master)** — Hochschule Bielefeld (HSBI), Germany.
 - **B.E. Information Technology** — Sinhgad College of Engineering, India.
 
 ---
 
-## Let's Connect
+## `06` — LET'S BUILD SOMETHING
 
 <div align="center">
 
-### Interested in building something meaningful?
+### 💡 Have an idea? Let's engineer it.
 
-I'm interested in AI engineering, intelligent automation, data systems, research, and collaborating on useful software products.
-
-<br/>
-
-<a href="https://linkedin.com/in/azfar-shaikh-04063a29b"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Azfarsh"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+Interested in AI engineering, intelligent automation, data systems, research, and building useful software products.
 
 <br/><br/>
 
-**Build thoughtfully. Automate intelligently. Deliver impact.**
+<a href="https://linkedin.com/in/azfar-shaikh-04063a29b"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:azfarshaikh7860@gmail.com"><img src="https://img.shields.io/badge/CONTACT_ME-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Azfarsh"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-111827?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
+<br/><br/>
+
+**BUILD THOUGHTFULLY. AUTOMATE INTELLIGENTLY. DELIVER IMPACT.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:450A0A,50:B91C1C,75:F59E0B,100:09090B&height=110&section=footer&animation=twinkling" width="100%" alt="Iron Man inspired red and gold footer"/>
 
 </div>
